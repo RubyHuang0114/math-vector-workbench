@@ -4,7 +4,7 @@
 /* 原稿作为题干与解析的唯一展示依据；手机可横向细看并打开大图。 */
 .original-pages{background:#fff;border-radius:12px;padding:12px;margin:16px 0;overflow-x:auto;color:#17252b}
 .original-pages a{display:block;margin:0 0 10px}.original-pages a:last-child{margin-bottom:0}
-.original-pages img{display:block;width:100%;height:auto;min-width:430px;max-width:none;border-radius:3px}
+.original-pages img{display:block;width:100%;height:auto;min-width:0;max-width:none;border-radius:3px}
 .provenance{display:grid;gap:10px;padding:16px;background:rgba(91,229,185,.055);border:1px solid var(--line);border-radius:12px;overflow-wrap:anywhere}
 .provenance .tag{justify-self:start}.provenance strong{font-size:15px;color:var(--mint)}
 .part-answer{padding:18px 0;border-bottom:1px solid var(--line)}.part-answer .final-input{margin-top:12px}
