@@ -1297,8 +1297,7 @@ window.MATH_DATA = {
         "original-assets/seven-A-19-q-1.webp"
       ],
       "solutionImages": [
-        "original-assets/seven-A-19-a-1.webp",
-        "original-assets/seven-A-19-a-2.webp"
+        "original-assets/seven-A-19-a-1.webp"
       ],
       "questionLocations": [
         {
@@ -1324,17 +1323,6 @@ window.MATH_DATA = {
             779.75
           ],
           "sha256": "c60495a5cef998d145e3429c7ea0326613dfd7c00f8785cd3aadd2363af2c0ba"
-        },
-        {
-          "fileId": 2,
-          "page": 6,
-          "box": [
-            45,
-            68,
-            555.28,
-            85.1
-          ],
-          "sha256": "f2a91a377e2e8478f6927f64570a4b93c0a88db82bbc6010c9536d183d976191"
         }
       ],
       "header": "19．（23-24七年级上·上海杨浦·期末）分解因式：a33a23a2．",
@@ -2131,8 +2119,7 @@ window.MATH_DATA = {
       "answerFile": "【七上专题解析】 因式分解综合应用（七大题型）.pdf",
       "answerPage": 8,
       "questionImages": [
-        "original-assets/seven-A-32-q-1.webp",
-        "original-assets/seven-A-32-q-2.webp"
+        "original-assets/seven-A-32-q-1.webp"
       ],
       "solutionImages": [
         "original-assets/seven-A-32-a-1.webp"
@@ -2148,17 +2135,6 @@ window.MATH_DATA = {
             779.75
           ],
           "sha256": "25c54be4870c10ffc9b22ba97e696d7048aa87bc709d57312eb4f8282f82d629"
-        },
-        {
-          "fileId": 1,
-          "page": 5,
-          "box": [
-            45,
-            68,
-            555.28,
-            103.61
-          ],
-          "sha256": "034c40cb21367dfcde3350f2c876dda9e6a8effc3fd9790e6a0837ecd7501d57"
         }
       ],
       "solutionLocations": [
@@ -5773,8 +5749,7 @@ window.MATH_DATA = {
       "answerFile": "【数学期中汇编】整式的加法和减法（解析版）.pdf",
       "answerPage": 5,
       "questionImages": [
-        "original-assets/addition-考点01-15-q-1.webp",
-        "original-assets/addition-考点01-15-q-2.webp"
+        "original-assets/addition-考点01-15-q-1.webp"
       ],
       "solutionImages": [
         "original-assets/addition-考点01-15-a-1.webp"
@@ -5790,17 +5765,6 @@ window.MATH_DATA = {
             778.75
           ],
           "sha256": "2ed75f281babe5eea781b2b1112a6a5b76edba97f6ff575020d6c44f85894caf"
-        },
-        {
-          "fileId": 11,
-          "page": 2,
-          "box": [
-            45,
-            68,
-            555.28,
-            97.61
-          ],
-          "sha256": "299fbd65375d1538c564d7abe37e2b8474231419c599172efe543229c45db268"
         }
       ],
       "solutionLocations": [
@@ -5993,8 +5957,7 @@ window.MATH_DATA = {
         "original-assets/factor-概念-03-q-1.webp"
       ],
       "solutionImages": [
-        "original-assets/factor-概念-03-a-1.webp",
-        "original-assets/factor-概念-03-a-2.webp"
+        "original-assets/factor-概念-03-a-1.webp"
       ],
       "questionLocations": [
         {
@@ -6020,17 +5983,6 @@ window.MATH_DATA = {
             625.97
           ],
           "sha256": "15ea1b9ff44ed22a4ab77cc133b9b9841c86131bc8f0ad251ac9f8fd9f7ee949"
-        },
-        {
-          "fileId": 14,
-          "page": 7,
-          "box": [
-            45,
-            68,
-            555.28,
-            86.32
-          ],
-          "sha256": "95b7f96a7cf408a1c540183285f1be2bb6995e8f11bfc42a915c1d11ed8160be"
         }
       ],
       "header": "3．（25-26七年级上·上海·期中）下列从左到右变形，是因式分解的有（ ）",
@@ -6199,8 +6151,7 @@ window.MATH_DATA = {
         "original-assets/factor-提公因式-03-q-1.webp"
       ],
       "solutionImages": [
-        "original-assets/factor-提公因式-03-a-1.webp",
-        "original-assets/factor-提公因式-03-a-2.webp"
+        "original-assets/factor-提公因式-03-a-1.webp"
       ],
       "questionLocations": [
         {
@@ -6226,17 +6177,6 @@ window.MATH_DATA = {
             590.09
           ],
           "sha256": "82915d3bf961c92bf8aab62d90460ffc95165bb60abfb762bd51695cdd7f7250"
-        },
-        {
-          "fileId": 14,
-          "page": 8,
-          "box": [
-            45,
-            68,
-            555.28,
-            204.89
-          ],
-          "sha256": "6bb1184f301755ce43e131a8fe1816abc49cb23ab2eacb6841c839184e4cd0b0"
         }
       ],
       "header": "3．（25-26七年级上·上海青浦·期中）分解因式： ．",
@@ -6606,8 +6546,7 @@ window.MATH_DATA = {
         "original-assets/factor-十字相乘-03-q-2.webp"
       ],
       "solutionImages": [
-        "original-assets/factor-十字相乘-03-a-1.webp",
-        "original-assets/factor-十字相乘-03-a-2.webp"
+        "original-assets/factor-十字相乘-03-a-1.webp"
       ],
       "questionLocations": [
         {
@@ -6644,17 +6583,6 @@ window.MATH_DATA = {
             661.97
           ],
           "sha256": "2b9117c75ceea9cdae4a2636bfb27e31ca120005cc63f67584592b70e42f85d8"
-        },
-        {
-          "fileId": 14,
-          "page": 10,
-          "box": [
-            45,
-            68,
-            555.28,
-            189.16
-          ],
-          "sha256": "b3230a1e0abf6eed3ad34828d9ac60e2c0b14c234f3eefb603dfd7f7fecf1e67"
         }
       ],
       "header": "3．（25-26七年级上·上海宝山·期中）因式分解： ．",
