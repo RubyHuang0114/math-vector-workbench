@@ -10,3 +10,7 @@
 .part-answer{padding:18px 0;border-bottom:1px solid var(--line)}.part-answer .final-input{margin-top:12px}
 .original-options{grid-template-columns:repeat(4,1fr)}.original-options .option{justify-content:center;padding:20px}
 @media(max-width:600px){.original-pages{padding:8px;margin:12px 0}.provenance{padding:12px}.original-options .option{padding:15px}.q-panel{min-width:0}.part-answer{padding:14px 0}}
+
+.written-work{margin-top:20px}.written-work label,.review-comparison label{display:block;margin:18px 0 8px}.review-comparison{border-top:2px solid var(--mint);margin-top:24px;padding-top:20px}.saved-drawing{display:block;max-width:100%;background:white}.written-work textarea,.review-comparison textarea,.review-comparison input{width:100%;max-width:100%;box-sizing:border-box}.review-comparison .actions{flex-wrap:wrap}
+
+.coverage-table{overflow-x:auto;margin:20px 0}.coverage-table table{width:100%;border-collapse:collapse}.coverage-table td,.coverage-table th{padding:10px;text-align:left;border-bottom:1px solid var(--line);font-size:13px}.coverage-table th{white-space:nowrap}
